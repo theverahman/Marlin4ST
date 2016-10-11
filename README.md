@@ -2,7 +2,7 @@ Marlin4ST - v1.0.X
 ------------------
 
 This repository proposes an example firmware for the ST Microelectronics 3D printer board STEVAL-3DP001V1.    
-The Marlin4ST firmware relies on [STM32Cube](http://www.st.com/web/catalog/tools/FM147/CL1794/SC961/SS1743/LN1897?s_searchtype=reco) and integers the 3D printer algorithms from the [Marlin](https://github.com/MarlinFirmware/Marlin/tree/1.0.x) 1.0.X firmware.
+The Marlin4ST firmware relies on [STM32Cube](http://www.st.com/web/catalog/tools/FM147/CL1794/SC961/SS1743/LN1897?s_searchtype=reco) and integers the 3D printer algorithms from the [Marlin 1.0.X](https://github.com/MarlinFirmware/Marlin/tree/1.0.x) firmware.
 The official Marlin 1.0.X firmware is now closed.
 
 It can be used unchanged on the 3D Printer "Prusa i3".  
